@@ -246,6 +246,30 @@ Disponíveis em: [https://posit.co/resources/cheatsheets/](https://posit.co/reso
 - Fazer backup regular
 
 ---
+### COMO CITAR
+```
+Introdução a Análise de dados para Pesquisa no SUS. (2025)- Scripts de R. Rio de Janeiro: Campus Virtual.
+```
 
-**Última Atualização:** Novembro 2024  
+---
+
+## 🙏 AGRADECIMENTOS E CRÉDITOS
+
+Este material foi desenvolvido para o curso "Introdução a Análise de dados para Pesquisa no SUS" com o objetivo de capacitar profissionais de saúde pública em análise de dados usando R.
+
+**INSPIRAÇÕES:**
+- R for Data Science (Hadley Wickham & Garrett Grolemund)
+- Tidyverse style guide
+- Carpentries workshops
+- Comunidade R brasileira
+
+**DADOS:**
+Sistema de Informações de Mortalidade (SIM) - DATASUS/Ministério da Saúde
+
+---
+
+**Última Atualização:** Novembro 2025  
 **Versão:** 2.0 - Atualizado com 3 scripts CAMPUS VIRTUAL
+
+*Desenvolvido com ❤️ para a comunidade de saúde pública brasileira*
+
