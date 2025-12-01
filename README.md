@@ -216,7 +216,6 @@ Disponíveis em: [https://posit.co/resources/cheatsheets/](https://posit.co/reso
 - Usar nomes descritivos de variáveis
 - Dividir código em seções lógicas
 - Usar pipe `%>%` para encadear operações
-- Limitar linhas a ~80 caracteres
 
 ### ESTILO DE CÓDIGO
 - Seguir guia de estilo tidyverse
