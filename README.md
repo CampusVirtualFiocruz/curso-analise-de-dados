@@ -32,7 +32,7 @@ O curso está organizado em 3 módulos:
 | Script | `modulo1aula2_script_2.R` | Manipulação de dados com tidyverse |
 | Script | `modulo1aula2_atividades.R` | Gabarito das atividades práticas |
 | PDF | `modulo1aula2_atividades.pdf` | Descrição das atividades propostas |
-| PDF | `modulo1aula2_gabarito_atividade.pdf` | Gabarito comentado |
+| PDF | `modulo1aula2_gabarito_atividade.pdf` | Gabarito dos resultados |
 
 > **OBSERVAÇÃO:** Para responder as perguntas que estão em `modulo1aula2_atividades.pdf`, tente criar o seu código para encontrar as respostas, mas caso tenha dificuldades o gabarito em R (`modulo1aula2_atividades.R`) encontra-se na pasta.
 
