@@ -31,7 +31,7 @@ A pasta `dados/` contém os arquivos de dados utilizados nas atividades:
 
 ---
 
-## 🎯 OBJETIVOS DA AULA
+## 🎯 OBJETIVOS DO MÓDULO 1
 
 As atividades práticas abordam:
 
