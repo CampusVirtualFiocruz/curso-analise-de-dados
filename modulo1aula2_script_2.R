@@ -1,7 +1,7 @@
 # ==============================================================================
-# AULA 2 - INTRODUÇÃO À LINGUAGEM DE PROGRAMAÇÃO R
-# Curso: Análise de Dados para Pesquisa no SUS
-# Script: Trabalhando com Dados 
+# MÓDULO 1 - AULA 2: INTRODUÇÃO À LINGUAGEM DE PROGRAMAÇÃO R
+# Curso: Introdução à Análise de Dados para Pesquisa no SUS
+# Script: Manipulação de Dados 
 # ==============================================================================
 
 # ------------------------------------------------------------------------------
@@ -9,7 +9,7 @@
 # ------------------------------------------------------------------------------
 
 # OPÇÃO 1: Instalação usando Tidyverse (RECOMENDADO - mais simples)
-# O Tidyverse já inclui vários pacotes essenciais
+# O Tidyverse já inclui vários pacotes essenciais (ATENÇÃO: Este processo pode demorar)
 install.packages("tidyverse")  # Inclui: dplyr, stringr, lubridate, readr, ggplot2 e outros
 install.packages("readxl")     # Leitura de arquivos Excel
 install.packages("arrow")      # Leitura de arquivos Parquet

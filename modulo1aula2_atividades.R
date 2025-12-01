@@ -1,6 +1,7 @@
 # ==============================================================================
-# GABARITO - ATIVIDADES PRÁTICAS AULA 2
-# Introdução à Linguagem de Programação R
+# MÓDULO 1 - AULA 2: INTRODUÇÃO À LINGUAGEM DE PROGRAMAÇÃO R 
+# Curso: Introdução à Análise de Dados para Pesquisa no SUS
+# Script: Gabarito - ATIVIDADES PRÁTICAS AULA 2 
 # ==============================================================================
 
 # Carregar pacotes necessários
